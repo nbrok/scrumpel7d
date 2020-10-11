@@ -4,6 +4,6 @@ It has 1MB RAM and 32KB ROM. The ROM can be switched off by software.
 The schematic is shown in scrumpel7d.pdf and the gerberfiles can be found in scrumpel7dv12.zip.
 More info can be found at: https://hackaday.io/project/171469-scrumpel-7d-z8s180-sbc
 
-All Software released under the GPL V4.0. See LICENSE for details.
-All Hardware released under the CERN Open Hardware licence.See LICENCE.hardware.txt.
-All Documentation copyright Nick Brok no licence.
+* All Software released under the GPL V3.0. See LICENSE for details.
+* All Hardware released under the CERN Open Hardware licence.See LICENCE.hardware.txt
+* All Documentation copyright Nick Brok no licence.
