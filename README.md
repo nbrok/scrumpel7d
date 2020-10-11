@@ -6,4 +6,4 @@ More info can be found at: https://hackaday.io/project/171469-scrumpel-7d-z8s180
 
 * All Software released under the GPL V3.0. See LICENSE for details.
 * All Hardware released under the CERN Open Hardware licence. See LICENCE.hardware.txt
-* All Documentation copyright Nick Brok no licence.
+* All Documentation CC-BY-SA-4.0
