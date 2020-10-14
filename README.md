@@ -11,7 +11,7 @@ More info can be found at: https://hackaday.io/project/171469-scrumpel-7d-z8s180
 ## Certification
 Scrumpel7d is an OSHWA-certified Open Source Hardware project!
 <p align='center'>
-<img alt='OSHWA Certified' src='/images/oshwa.png?raw=true' title='OSHWA Certification NL000003' width='20%'>
+<img alt='OSHWA Certified' src=OSHW_mark_NL000003.png?raw=true' title='OSHWA Certification NL000003' width='20%'>
 </p>
 <p align='center'>
 https://certification.oshwa.org/nl000003.html
