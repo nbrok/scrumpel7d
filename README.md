@@ -8,5 +8,5 @@ More info can be found at: https://hackaday.io/project/171469-scrumpel-7d-z8s180
 * All Hardware released under the CERN Open Hardware licence. See LICENCE.hardware.txt
 * All Documentation released under Creative Commons Attribution. See https://creativecommons.org/licenses/by-sa/4.0/
 
-#Certification
+# Certification
 Scrumpel7d is an OSHWA-certified Open Source Hardware project!
